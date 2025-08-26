@@ -24,7 +24,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - GF_SECURITY_ADMIN_PASSWORD=Uhfafyf!1
+      - GF_SECURITY_ADMIN_PASSWORD=PasswordStrong???*
     volumes:
       - /var/lib/grafana:/var/lib/grafana
     networks:
